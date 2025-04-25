@@ -1,24 +1,16 @@
-# Entorno virtual
 bankenv/
 
-# Python cache
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 
-# Archivos de entorno y configuraciones sensibles
 .env
 .env.*
 
-# Archivos de sistema y editores
 .DS_Store
 .idea/
 .vscode/
 
-# Metadata de paquetes
 *.egg-info/
 .eggs/
-
-# Caché de testing
-.pytest_cache/
