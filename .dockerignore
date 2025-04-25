@@ -1,0 +1,15 @@
+bankvenv/
+.bankvenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.db
+*.sqlite3
+.DS_Store
+.env
+.git
+.gitignore
+.idea/
+*.egg-info/
